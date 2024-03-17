@@ -6,6 +6,8 @@ public class Session {
 		
 		System.out.println(1);
 		
+		System.out.println("git added ");
+		
 	}
 	
 	
